@@ -145,6 +145,7 @@ oauthlib==3.1.0
 olefile==0.46
 opencv-contrib-python==4.5.1.48
 opencv-python==4.5.1.48
+opencv-python-headless
 openpyxl @ file:///tmp/build/80754af9/openpyxl_1598113097404/work
 opt-einsum==3.3.0
 packaging==20.4
